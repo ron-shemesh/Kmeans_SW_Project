@@ -1,4 +1,4 @@
-# HW1 - Clustering K-means in PY - RON SHEMESH - ID 212204200
+# HW1 - Clustering K-means in PY - RON SHEMESH 
 import sys
 
 # Note:  All arguments validation throughout the code are left from HW1
